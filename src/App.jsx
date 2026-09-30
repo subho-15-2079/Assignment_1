@@ -64,7 +64,7 @@ function App() {
             <p className="hello">HELLO, I'M</p>
 
             <h1>
-              Anis Nayak
+              Subho Bhore
               
             </h1>
 
